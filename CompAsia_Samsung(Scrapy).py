@@ -30,6 +30,6 @@ df['Link'] = df['Link'].apply(lambda x: 'https://shop.compasia.com/collections/s
 print('Dataframe (clean): \n', df)
 
 #export the dataframe to csv file
-df.to_csv('SamsungProducts.csv', index=False)
+df.to_csv('SamsungProducts.csv', index = False)
 
 #original code inspired by https://github.com/drshahizan
