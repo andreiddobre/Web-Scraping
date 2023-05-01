@@ -43,4 +43,5 @@ print('Dataframe (clean data): \n', df)
 #export the cleaned data to a csv file
 df.to_csv('BookDepository_big_data_books.csv', index = False)
 
+
 #original code inspired by https://github.com/drshahizan
