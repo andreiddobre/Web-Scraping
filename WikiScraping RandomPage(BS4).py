@@ -22,3 +22,4 @@ r.close()
 print("File Saved as Random_wiki_article.txt")
 
 #original code inspired by: clcoding
+
