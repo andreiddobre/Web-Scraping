@@ -49,4 +49,3 @@ print('Finding tags by ID', doc.select("div#mw-panel"))
 #testing if the atribute exists in a tag
 print('Testing if the atribute exists in a tag', doc.select("footer[role]"))
 print('Testing if the atribute exists in a tag', doc.select("a[href]"))
-
