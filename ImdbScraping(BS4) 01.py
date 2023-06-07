@@ -1,4 +1,5 @@
 #pip install bs4
+#pip install requests
 
 import bs4
 import requests
